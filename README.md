@@ -6,7 +6,7 @@ Once the client establishes a successful connection with the server, the client 
 
 Usage:
 Server:
-java EchoServer <port number>
+java EchoServer \<port-number\>
 
 Client:
-java EchoClient <host name> <port number>
+java EchoClient \<host-name\> \<port-number\>
